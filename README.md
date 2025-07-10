@@ -4,6 +4,12 @@ A simple and interactive web application built with **Streamlit** and a pre-trai
 
 ![Streamlit Screenshot](https://user-images.githubusercontent.com/your-screenshot-placeholder.png) <!-- Optional: Add your own screenshot here -->
 
+
+---
+
+## 🚀 Live Demo
+[https://helmet-detection-ai-tantheta.streamlit.app/](https://helmet-detection-ai-tantheta.streamlit.app/)
+
 ---
 
 ## 🚀 Features
