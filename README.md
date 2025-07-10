@@ -8,7 +8,7 @@ A simple and interactive web application built with **Streamlit** and a pre-trai
 ---
 
 ## 🚀 Live Demo
-[https://helmet-detection-ai-tantheta.streamlit.app/](https://helmet-detection-ai-tantheta.streamlit.app/)
+[https://ann-classification-churn-tanishq0309.streamlit.app/]
 
 ---
 
